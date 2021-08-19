@@ -2,9 +2,9 @@
 
 ----
 
-###Java Algorithm Solutions
+### Java Algorithm Solutions
 
-
+<br>
 
 
 | 번호  | 알고리즘       | 제목               | 난이도   | 보기                                           |
