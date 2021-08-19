@@ -2,7 +2,8 @@
 
 ----
 
-Java Algorithm Solutions
+###Java Algorithm Solutions
+
 
 
 
